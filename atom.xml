@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhouyun.github.io</id>
+    <id>https://yangfan-ltd.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-23T13:53:55.254Z</updated>
+    <updated>2020-07-23T14:28:36.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhouyun.github.io"/>
-    <link rel="self" href="https://zhouyun.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yangfan-ltd.github.io"/>
+    <link rel="self" href="https://yangfan-ltd.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zhouyun.github.io/images/avatar.png</logo>
-    <icon>https://zhouyun.github.io/favicon.ico</icon>
+    <logo>https://yangfan-ltd.github.io/images/avatar.png</logo>
+    <icon>https://yangfan-ltd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zhouyun.github.io/post/hello-gridea/</id>
-        <link href="https://zhouyun.github.io/post/hello-gridea/">
+        <id>https://yangfan-ltd.github.io/post/hello-gridea/</id>
+        <link href="https://yangfan-ltd.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
